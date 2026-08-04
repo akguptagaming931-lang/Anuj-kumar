@@ -1,4 +1,3 @@
-# Anuj-kumar
 # 👋 Hi, I'm Anuj Kumar
 
 🎓 B.Tech CSE Student | 💻 Aspiring Software Developer
