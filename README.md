@@ -58,38 +58,18 @@
 - 👨‍💼 Employee Payroll & Leave Management System
 - 🌐 Web Development Projects
 - 💻 C++ & DSA Practice
-
----
-
-## 📊 GitHub Stats
-
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj-kumar&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anuj-kumar&theme=tokyonight)
-
+  
 ---
 
 ### 🌟 Keep Learning. Keep Coding. Keep Building. 🚀
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
-
-[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
-
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
+---
 
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 # 💻 Tech Stack:
 ### 👨‍💻 Programming Languages
@@ -121,13 +101,6 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 - Git & GitHub 🐙
 - UI/UX Design 🎨
 
-### 📊 GitHub Stats
-
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tera______anuj&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-kumar&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anuj-kumar&theme=tokyonight&hide_border=true)
 
 ### 🌐 Connect With Me
 
